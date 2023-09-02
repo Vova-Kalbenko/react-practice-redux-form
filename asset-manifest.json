@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/react-practice-redux-form/static/css/main.7acaea2f.css",
-    "main.js": "/react-practice-redux-form/static/js/main.07d3183d.js",
+    "main.js": "/react-practice-redux-form/static/js/main.84ded36e.js",
+    "static/js/493.ad0e3a72.chunk.js": "/react-practice-redux-form/static/js/493.ad0e3a72.chunk.js",
+    "static/js/197.7479a10e.chunk.js": "/react-practice-redux-form/static/js/197.7479a10e.chunk.js",
+    "static/js/673.61e600a0.chunk.js": "/react-practice-redux-form/static/js/673.61e600a0.chunk.js",
     "index.html": "/react-practice-redux-form/index.html",
     "main.7acaea2f.css.map": "/react-practice-redux-form/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-practice-redux-form/static/js/main.07d3183d.js.map"
+    "main.84ded36e.js.map": "/react-practice-redux-form/static/js/main.84ded36e.js.map",
+    "493.ad0e3a72.chunk.js.map": "/react-practice-redux-form/static/js/493.ad0e3a72.chunk.js.map",
+    "197.7479a10e.chunk.js.map": "/react-practice-redux-form/static/js/197.7479a10e.chunk.js.map",
+    "673.61e600a0.chunk.js.map": "/react-practice-redux-form/static/js/673.61e600a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.84ded36e.js"
   ]
 }
